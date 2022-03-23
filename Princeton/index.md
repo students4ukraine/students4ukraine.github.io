@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Student efforts at Princeton
 ---
 
 
