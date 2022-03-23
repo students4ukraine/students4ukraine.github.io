@@ -5,7 +5,7 @@ title: Our Team
 
 
 
-## Princeton Team: 
+## Princeton: 
 
 Kate Ivshina
 
@@ -13,7 +13,7 @@ Liza Rozenberg
 
 Nadya Fishchenko
 
-## Harvard Team:
+## Harvard:
 
 Polina Galouchko
 
