@@ -3,9 +3,10 @@ layout: page
 title: Talks
 ---
 
-We’re a group of Russian undergraduates who recently started a new student organization on campus in response to the war in Ukraine. One of our initiatives is to host a series of talks with prominent Russian investors, entrepreneurs, scholars, and politicians who are actively supporting anti-war movements and Ukraine relief efforts. 
 
-The goal is 1) to educate the Princeton community that many Russians are against the war, and 2) to raise funds for the Cash for Refugees initiative.
+## March 29th, 7pm EST: Investing in Peace -- A Conversation with Nick Davidov
+
+Would you like to learn how investors are supporting Ukraine during the war? Are you curious about the role the Silicon Valley plays in international relations? Then join us on Tuesday March 29th at 7pm EST on Zoom for a talk with Nick Davidov, a serial entrepreneur, investor, and venture partner specializing in AI technologies. For more information, see the poster attached. To register for the talk, follow this link: bit.ly/3MM7uTP. See you there!
 
 
 ![alt text](/imgs/Davidov.png)
