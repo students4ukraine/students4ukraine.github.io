@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Student efforts at Harvard
 ---
 
 - Started a [petition](https://docs.google.com/document/d/1atJkrtuEznrbZtD-2Y8QLWbsg8_A-mLea3p0GkGCFs0/edit) to Harvard administration that has 600+ signatures of undergraduate, graduate students, postdoctoral fellows, alumni, staff, and 40+ faculty members, as well as unequivocal support of Harvard Graduate Student Union (HGSU) and Slavic Studies department (which has signed a petition as an organization for the first time in its history). Emailed the petition to 50+ people, including top university administration, College administration, and faculty deans. The petition calls for urgent, proactive, and centralized support for the students from the affected region — Ukraine, Russia, and Belarus. 
