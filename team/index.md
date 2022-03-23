@@ -13,8 +13,7 @@ Liza Rozenberg
 
 Nadya Fishchenko
 
-Betsy Pu (aka our favorite website maker and party shaker <3)
-
+Betsy Pu 
 ## Harvard:
 
 Polina Galouchko
