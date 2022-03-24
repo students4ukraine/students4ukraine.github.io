@@ -7,7 +7,7 @@ title: Our Team
 
 ## Princeton: 
 
-Kate Ivshina
+Kate  
 
 Liza Rozenberg
 
