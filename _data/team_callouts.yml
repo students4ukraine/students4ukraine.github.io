@@ -2,7 +2,7 @@ style: is-light
 height: is-medium
 items:
   - title: Princeton University
-    subtitle: -
+    subtitle:
     description: >
       Kate Ivshina
 
@@ -14,7 +14,7 @@ items:
     call_to_action_name: View Princeton Initiatives
     call_to_action_link: /princeton
   - title: Harvard University
-    subtitle: -
+    subtitle:
     description: >
       Polina Galouchko
 
