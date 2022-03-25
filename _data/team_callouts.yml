@@ -11,6 +11,8 @@ items:
       Nadya Fishchenko
 
       Betsy Pu
+    call_to_action_name: View Princeton Initiatives
+    call_to_action_link: /princeton
   - title: Harvard University
     subtitle: -
     description: >
@@ -19,3 +21,5 @@ items:
       Nika Rudenko
 
       Sasha Zhigalin
+    call_to_action_name: View Harvard Initiatives
+    call_to_action_link: /harvard
