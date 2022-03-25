@@ -2,7 +2,7 @@ style: is-light
 height: is-medium
 items:
   - title: Princeton University
-    subtitle:
+    subtitle: -
     description: >
       Kate Ivshina
 
@@ -12,7 +12,7 @@ items:
 
       Betsy Pu
   - title: Harvard University
-    subtitle:
+    subtitle: -
     description: >
       Polina Galouchko
 
