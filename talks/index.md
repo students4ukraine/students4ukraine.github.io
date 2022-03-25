@@ -15,7 +15,7 @@ Would you like to learn how investors are **supporting Ukraine** during the war?
 
 ## Saturday April 2, 7:30PM ET in Richardson Auditorium: FIGURE HUMAINE
 
-In partnership with our student organization, Chamber Choir presents *FIGURE HUMAINE*, which is a cry for deliverance from tyranny written in occupied France in 1942-43. You may purchase a ticket [here](https://princetongleeclub.com)
+In partnership with our student organization, Chamber Choir presents *FIGURE HUMAINE*, which is a cry for deliverance from tyranny written in occupied France in 1942-43. You may purchase a ticket [here](https://princetongleeclub.com).
 
 <p align="center">
 <img src="/imgs/humaine.png" alt="drawing" width="600"/>
