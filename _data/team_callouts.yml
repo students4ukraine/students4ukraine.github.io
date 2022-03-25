@@ -1,8 +1,8 @@
 style: is-light
 height: is-medium
 items:
-  - title: Princeton
-    subtitle: Example subtitle 1
+  - title: Princeton University
+    subtitle:
     description: >
       Kate Ivshina
 
@@ -11,8 +11,8 @@ items:
       Nadya Fishchenko
 
       Betsy Pu
-  - title: Harvard
-    subtitle: Example subtitle 2
+  - title: Harvard University
+    subtitle:
     description: >
       Polina Galouchko
 
