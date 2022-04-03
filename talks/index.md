@@ -18,7 +18,7 @@ Since the beginning of the war, censorship and political repercussions in Russia
 In partnership with our student organization, Chamber Choir presents *FIGURE HUMAINE*, which is a cry for deliverance from tyranny written in occupied France in 1942-43. You may purchase a ticket [here](https://princetongleeclub.com).
 
 <p align="center">
-<img src="/imgs/humaine.png" alt="drawing" width="600"/>
+<img src="/imgs/liberte.png" alt="drawing" width="600"/>
 </p>
 
 ## March 29th, 7pm EST: Investing in Peace -- A Conversation with Nick Davidov
