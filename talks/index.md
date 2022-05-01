@@ -3,6 +3,14 @@ layout: page
 title: Events
 ---
 
+## May 6th, 5pm EST, McDonnell A01: "F@ck this job" documentary screening
+
+Next Friday, we are hosting a private screening of “F@ck This Job” — a documentary about the the crackdown of independent news media in Russia. After the screening, Natasha Sindeeva, the CEO of TV Rain, and Vera Krichevskaya, the film director, will join us for a Q&A session. Note that the documentary has not been released in the US yet. RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSevpQjbYZrljWXIlTuOtDu3DioKjUMvn8qGkpLBtlidX45nXg/viewform).
+
+<p align="center">
+<img src="/imgs/ftj.png" alt="drawing" width="600"/>
+</p>
+
 ## April 9th, 2pm EST: The Future of Politics in Russia after the Invasion of Ukraine -- A Conversation with Leonid Volkov
 
 Since the beginning of the war, censorship and political repercussions in Russia have worsened with each day. Leonid Volkov is a Russian opposition politician and Alexei Navalny's political associate. Leonid will speak about the forms of civil engagement that are still available in Russia and discuss the impact that the invasion of Ukraine had on country's domestic policy. **To register for the talk, follow this link:  [bit.ly/3tVmzex](https://docs.google.com/forms/d/e/1FAIpQLSd3ZGz6in-8M_4OHovh41EWfPBivz3io5xh1kriJNmK3RZi6Q/viewform).**
