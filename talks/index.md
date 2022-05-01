@@ -3,9 +3,9 @@ layout: page
 title: Events
 ---
 
-## May 6th, 5pm EST, McDonnell A01: "F@ck this job" documentary screening
+## May 6th, 5pm EST, McDonnell A01: "F@ck This Job" documentary screening
 
-Next Friday, we are hosting a private screening of “F@ck This Job” — a documentary about the the crackdown of independent news media in Russia. After the screening, Natasha Sindeeva, the CEO of TV Rain, and Vera Krichevskaya, the film director, will join us for a Q&A session. Note that the documentary has not been released in the US yet. RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSevpQjbYZrljWXIlTuOtDu3DioKjUMvn8qGkpLBtlidX45nXg/viewform).
+Next Friday, we are hosting a private screening of **“F@ck This Job”** — a documentary about the the crackdown of independent news media in Russia. After the screening, Natasha Sindeeva, the CEO of TV Rain, and Vera Krichevskaya, the film director, will join us for a Q&A session. Note that the documentary has not been released in the US yet. RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSevpQjbYZrljWXIlTuOtDu3DioKjUMvn8qGkpLBtlidX45nXg/viewform).
 
 <p align="center">
 <img src="/imgs/ftj.png" alt="drawing" width="600"/>
