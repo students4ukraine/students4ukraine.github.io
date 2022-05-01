@@ -11,6 +11,18 @@ Next Friday, we are hosting a private screening of “F@ck This Job” — a doc
 <img src="/imgs/ftj.png" alt="drawing" width="600"/>
 </p>
 
+## April 22, 7:30PM ET in Richardson Auditorium:  Princeton University Glee Club
+
+In partnership with our student organization, Princeton University Glee Club presents “For the Endangered“. This beautiful concert of music in honor of Earth Day includes a new work by Princeton composer Sarah Kirkland Snider called Mass for the Endangered, and four rarely heard treasures by the French prodigy whose death at 24 deprived the musical world of one of the most promising voices of the 20th Century, Lili Boulanger.
+
+<p align="center">
+<img src="/imgs/Glee+Nollner+Prince+Skyscraper+(600x1200+px).jpg" alt="drawing" width="600"/>
+</p>
+
+
+
+
+
 ## April 9th, 2pm EST: The Future of Politics in Russia after the Invasion of Ukraine -- A Conversation with Leonid Volkov
 
 Since the beginning of the war, censorship and political repercussions in Russia have worsened with each day. Leonid Volkov is a Russian opposition politician and Alexei Navalny's political associate. Leonid will speak about the forms of civil engagement that are still available in Russia and discuss the impact that the invasion of Ukraine had on country's domestic policy. **To register for the talk, follow this link:  [bit.ly/3tVmzex](https://docs.google.com/forms/d/e/1FAIpQLSd3ZGz6in-8M_4OHovh41EWfPBivz3io5xh1kriJNmK3RZi6Q/viewform).**
