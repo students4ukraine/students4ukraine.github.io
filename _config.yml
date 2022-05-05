@@ -22,7 +22,7 @@ title: Students for Ukraine
 subtitle: Students for Ukraine
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  We are a team of students who strongly oppose the Russian invasion of Ukrain, and we are committed to raising awareness about the war in Ukraine and the repercussions in Russia.
+  We are a team of students who strongly oppose the Russian invasion of Ukraine, and we are committed to raising awareness about the war in Ukraine and the repercussions in Russia.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://students4ukraine.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
