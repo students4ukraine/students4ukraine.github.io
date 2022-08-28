@@ -16,7 +16,7 @@ Princeton University Glee Club presents “For the Endangered“ concert in part
 
 
 
-## April 9th, 2pm EST: The Future of Politics in Russia after the Invasion of Ukraine -- A Conversation with Leonid Volkov
+## April 9th, 2pm EST: The Future of Politics in Russia -- A Conversation with Leonid Volkov
 
 Since the beginning of the war, censorship and political repercussions in Russia have worsened with each day. Leonid Volkov is a Russian opposition politician and Alexei Navalny's political associate. Leonid will speak about the forms of civil engagement that are still available in Russia and discuss the impact that the invasion of Ukraine had on country's domestic policy. **To register for the talk, follow this link:  [bit.ly/3tVmzex](https://docs.google.com/forms/d/e/1FAIpQLSd3ZGz6in-8M_4OHovh41EWfPBivz3io5xh1kriJNmK3RZi6Q/viewform).**
 
