@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Students for Ukraine
-subtitle: Students for Ukraine
+title: 02.24.2022
+subtitle: Educating Princeton University community about the war in Ukraine and connecting students with Ukraine relief volunteering opportnities.
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   We are a team of students who strongly oppose the Russian invasion of Ukraine, and we are committed to raising awareness about the war in Ukraine and the repercussions in Russia.
