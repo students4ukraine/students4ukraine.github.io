@@ -20,7 +20,10 @@ Princeton University Glee Club presents “For the Endangered“ concert in part
 
 Since the beginning of the war, censorship and political repercussions in Russia have worsened with each day. Leonid Volkov is a Russian opposition politician and Alexei Navalny's political associate. Leonid will speak about the forms of civil engagement that are still available in Russia and discuss the impact that the invasion of Ukraine had on country's domestic policy. **To register for the talk, follow this link:  [bit.ly/3tVmzex](https://docs.google.com/forms/d/e/1FAIpQLSd3ZGz6in-8M_4OHovh41EWfPBivz3io5xh1kriJNmK3RZi6Q/viewform).**
 
- 
+
+## April 6: Princeton, most Ivies do not disclose Russian investment holdings as some colleges divest amid war in Ukraine
+Any investment in Russia pays directly to support the ongoing genocide of Ukraine through Russian taxes. [Daily Princetonian](https://www.dailyprincetonian.com/article/2022/04/princeton-divestment-russian-holdings-ukraine-invasion)
+
 
 
 
@@ -35,4 +38,11 @@ In partnership with our student organization, Chamber Choir presents *FIGURE HUM
 Would you like to learn how investors are **supporting Ukraine** during the war? Then join us on Tuesday March 29th at 7pm EST on Zoom for a talk with **Nick Davidov**, a serial entrepreneur, investor, and venture partner specializing in AI technologies. **To register for the talk, follow this link:  [bit.ly/3MM7uTP](https://docs.google.com/forms/d/e/1FAIpQLSe3zY_FPXImDrJn4cShpbOFpV9JIsCSqs-bJAT1XVEjIwc5dw/viewform).**
 
  
+## March 17: 02.24.2022, a New Student Organization on Princeton's campus in response to the war in Ukraine
+Princeton students fundraise, petition, express solidarity with Ukraine following Russian invasion. [Daily Princetonian](https://www.dailyprincetonian.com/article/2022/03/princeton-university-shows-support-for-ukraine)
+
+ 
+## March 1: Letter of Solidarity with Ukraine
+Our letter of solidarity with Ukraine has received over 550 signatures from the Princeton community and has been [published](https://www.dailyprincetonian.com/article/2022/03/letter-solidarity-ukraine-russia-princeton) in the Daily Princetonian.
+
 
