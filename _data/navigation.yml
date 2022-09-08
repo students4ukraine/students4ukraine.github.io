@@ -1,5 +1,5 @@
-- name: News
-  link: /news/
+# - name: News
+#  link: /news/
 - name: Events
   link: /talks/
 #- name: Princeton 
