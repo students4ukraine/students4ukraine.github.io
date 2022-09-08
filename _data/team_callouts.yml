@@ -13,10 +13,10 @@ items:
       Betsy Pu
     call_to_action_name: View Princeton Initiatives
     call_to_action_link: /princeton
-  - title: Harvard University
-    subtitle:
-    description: "Polina Galouchko\n
-      Nika Rudenko\n
-      Sasha Zhigalin\n\n"
-    call_to_action_name: View Harvard Initiatives
-    call_to_action_link: /harvard
+ # - title: Harvard University
+ #   subtitle:
+ #   description: "Polina Galouchko\n
+ #     Nika Rudenko\n
+ #     Sasha Zhigalin\n\n"
+ #   call_to_action_name: View Harvard Initiatives
+ #   call_to_action_link: /harvard
