@@ -1,8 +1,7 @@
 ---
 layout: page
-title: "Students for Ukraine: Efforts at Princeton and Harvard"
+title: "02.24.2022", Princeton's student group founded in response to the war in Ukraine
 callouts: team_callouts
 ---
- We are a team of students who condemns the Russian invasion of Ukraine, and we are committed to raising awareness about the war in Ukraine and the repercussions in Russia.  We envision our contribution would be building a deeper understanding of this humanitarian crisis and helping Ukrainian refugees.
- 
+ We are a team of students who condemns the Russian invasion of Ukraine.
 
